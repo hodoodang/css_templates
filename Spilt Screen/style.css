@@ -84,4 +84,5 @@ section .screen .card a:hover ~ .content,
 section .screen:nth-child(2) .content
 {
 	background: #ff0;
+	text-align: 
 }
