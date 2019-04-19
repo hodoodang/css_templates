@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	align-content: center;
+	justify-content: center;
+	height: 100hv;
+	background: #000;
+}
+p
+{
+	font-size: 12px;
+	line-height: 10px;
+	background: url(crow.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: rgba(255,255,255,.2);
+}
